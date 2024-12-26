@@ -346,7 +346,6 @@ section {
 .timeline .timeline-item p {
   color: var(--color-grey-2);
 }
-
 .port-text {
   padding: 2rem 0;
   text-align: center;
@@ -417,11 +416,11 @@ section {
 .portfolios .portfolio-item .hover-items .icons .icon:hover i {
   color: var(--color-primary);
 }
-
 .portfolio-item:hover .hover-items {
   opacity: 1;
   transform: scale(1);
 }
+
 .contact-content-con {
   display: flex;
   padding-top: 3.5rem;
