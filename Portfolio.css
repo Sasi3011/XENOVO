@@ -103,7 +103,6 @@ section {
 .controls .active-btn i {
   color: var(--color-white);
 }
-
 /*Header-content*/
 .header-content {
   display: grid;
@@ -160,7 +159,6 @@ section {
   margin: 1.5rem 0;
   line-height: 2rem;
 }
-
 /*About*/
 .about-container {
   display: grid;
@@ -224,7 +222,6 @@ section {
   font-size: 2rem;
   text-transform: uppercase;
 }
-
 .about-stats {
   padding-bottom: 4rem;
 }
@@ -282,7 +279,6 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 70%;
 }
-
 .stat-title {
   text-transform: uppercase;
   font-size: 1.4rem;
@@ -300,7 +296,6 @@ section {
   background-color: var(--color-grey-5);
   transform: translateX(-50%);
 }
-
 /*Timeline*/
 .timeline {
   display: grid;
