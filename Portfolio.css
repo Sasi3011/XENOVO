@@ -19,6 +19,7 @@
   --br-sm-2: 14px;
   --box-shadow-1: 0 3px 15px #0000004d;
 }
+/* body */
 body {
   background-color: var(--color-primary);
   font-family: "Poppins", sans-serif;
