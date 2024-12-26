@@ -423,6 +423,7 @@ section {
   opacity: 1;
   transform: scale(1);
 }
+/* Contact */
 .contact-content-con {
   display: flex;
   padding-top: 3.5rem;
