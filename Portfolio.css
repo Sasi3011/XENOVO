@@ -420,7 +420,7 @@ section {
   opacity: 1;
   transform: scale(1);
 }
-
+/* contact */
 .contact-content-con {
   display: flex;
   padding-top: 3.5rem;
@@ -514,13 +514,11 @@ section {
   display: flex;
   justify-content: flex-start;
 }
-
 /*Independed components*/
 .btn-con {
   display: flex;
   align-self: flex-start;
 }
-
 .main-btn {
   border-radius: 30px;
   color: inherit;
@@ -562,7 +560,6 @@ section {
   transform: translateX(0);
   transition: all 0.4s ease-out;
 }
-
 .main-title {
   text-align: center;
 }
@@ -586,30 +583,20 @@ section {
   font-weight: 800;
   font-size: 6.3rem;
 }
-
 .about-container .left-about p {
   padding-left: 0;
 }
-
 @media screen and (max-width: 600px) {
   header {
     padding: 0 !important;
   }
-
-  .theme-btn {
-    width: 50px;
-    height: 50px;
-  }
-
   .header-content {
     grid-template-columns: repeat(1, 1fr);
     padding-bottom: 6rem;
   }
-
   .left-header .h-shape {
     display: none;
   }
-
   .right-header {
     grid-row: 1;
     padding-right: 0rem !important;
@@ -621,12 +608,10 @@ section {
     text-align: center;
     padding-top: 3rem;
   }
-
   .header-content .left-header .image {
     margin: 0 auto;
     width: 90%;
   }
-
   .controls {
     top: auto;
     bottom: 0;
@@ -640,7 +625,6 @@ section {
   .controls .control {
     margin: 1rem 0.3rem;
   }
-
   .about-container {
     grid-template-columns: repeat(1, 1fr);
   }
@@ -654,20 +638,16 @@ section {
   .about-container .left-about p {
     padding-left: 0;
   }
-
   .timeline {
     grid-template-columns: repeat(1, 1fr);
     padding-bottom: 6rem;
   }
-
   .container {
     padding: 2rem 2.5rem !important;
   }
-
   .about-stats .progress-bars {
     grid-template-columns: repeat(1, 1fr);
   }
-
   .portfolios {
     grid-template-columns: repeat(1, 1fr);
     padding-bottom: 6rem;
@@ -681,7 +661,6 @@ section {
     margin-left: 0;
     margin-top: 2.5rem;
   }
-
   .contact-content-con .right-contact .i-c-2 {
     flex-direction: column;
   }
