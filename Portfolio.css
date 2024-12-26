@@ -27,6 +27,7 @@ body {
   color: var(--color-white);
   transition: all 0.4s ease-in-out;
 }
+/* anchor */
 a {
   display: inline-block;
   text-decoration: none;
@@ -66,6 +67,7 @@ section {
     transform: translateY(0) scaleY(1);
   }
 }
+/* controls */
 .controls {
   position: fixed;
   z-index: 10;
