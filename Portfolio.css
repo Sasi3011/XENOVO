@@ -101,7 +101,6 @@ section {
 .controls .active-btn i {
   color: var(--color-white);
 }
-
 /*Header-content*/
 .header-content {
   display: grid;
@@ -158,7 +157,6 @@ section {
   margin: 1.5rem 0;
   line-height: 2rem;
 }
-
 /*About*/
 .about-container {
   display: grid;
